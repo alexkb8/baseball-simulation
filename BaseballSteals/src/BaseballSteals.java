@@ -4,7 +4,7 @@ import java.util.Random;
 public class BaseballSteals {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-				double[] percent = new double[8]; //goes up to 5 so 6 things including p 0
+				double[] percent = new double[8]; 
 				Scanner input = new Scanner(System.in);
 				System.out.println("Type in player name. One word no spaces please");
 				String name = input.next();
