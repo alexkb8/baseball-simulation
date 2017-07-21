@@ -366,7 +366,7 @@ public class BaseballSteals {
 				
 			return inningstats;
 			// 6153   .321    187   275   29  1409     mlb avg
-			// out of 1000  1000  .321  30.39  44.69   4.71  228.994
+			
 		
 	}
 }
